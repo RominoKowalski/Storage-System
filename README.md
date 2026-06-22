@@ -1,7 +1,7 @@
 # Storage-System
 A storage system for small things. Made with Arduino and 3D printer.
 
-<H3>Shopping List</H3>
+<h3>Shopping List</h3>
 <br>
   4 Stepper Motors
 <br>
