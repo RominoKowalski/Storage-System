@@ -13,4 +13,6 @@ Bedingungen die erfüllt sein sollen
 6.	Keine Bugs besitzen
 
 Funktionen
-
+ - Vollautomatisch
+ - Mit Bildschirm und im Web steuerbar
+ - Für dinge wie Schrauben und andere kleine dinge geignet
