@@ -1,3 +1,9 @@
+<style>
+  body {
+  background-color: red;
+  }
+</style>
+
 <h1>Storage System</h1>
 
 Vorwort
