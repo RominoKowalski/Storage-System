@@ -1,10 +1,15 @@
-# Storage-System
-A storage system for small things. Made with Arduino and 3D printer.
+#Storage System
 
-<h2>Required Components</h2>
-<ul>
-    <li><strong>4×</strong> Stepper Motors</li>
-    <li><strong>1×</strong> Arduino Uno</li>
-    <li><strong>1×</strong> 4×4 Matrix Keypad</li>
-    <li><strong>Several</strong> Jumper Wires</li>
-</ul>
+##Vorwort
+Dieses Projekt ist mein erstes komplexes Projekt was ich alleine und mit der Hilfe meiner Freunde durchgesetzt habe. Ich hatte nach einem komplexen Projekt gesucht das meine Kompetenzen fördert und mir etwas das Leben erleichtern kann. Also hatte ich die Idee ein automatisiertes Lagersystem zu bauen. 
+
+##Bedingungen die erfüllt sein sollen
+1.	Vollautomatisch
+2.	Erweiterbar
+3.	Gutes Design
+4.	Bildschirm besitzen (CYD)
+5.	Mit ESP-NOW funktionieren (lernzweck)
+6.	Keine Bugs besitzen
+
+##Funktionen
+
