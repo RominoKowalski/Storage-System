@@ -1,4 +1,3 @@
-
 <h1>Storage System</h1>
 
 Vorwort
@@ -16,3 +15,9 @@ Funktionen
  - Vollautomatisch
  - Mit Bildschirm und im Web steuerbar
  - Für dinge wie Schrauben und andere kleine dinge geignet
+
+### Einkaufsliste
+
+- CYD (15-20$)
+- ESP32 S2-Mini (habe ich benutzt andere funktionieren genauso gut)
+- Stepmotoren
