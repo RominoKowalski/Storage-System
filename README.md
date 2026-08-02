@@ -20,4 +20,4 @@ Dieses Projekt ist mein erstes komplexes Projekt was ich alleine und mit der Hil
 
 - CYD (15-20$)
 - ESP32 S2-Mini (habe ich benutzt andere funktionieren genauso gut)
-- Steppmotor(17HS3001-20B   GTW141183) 2 mal
+- 2 mal Steppmotor(17HS3001-20B   GTW141183) 
