@@ -16,8 +16,8 @@ Dieses Projekt ist mein erstes komplexes Projekt was ich alleine und mit der Hil
  - Mit Bildschirm und im Web steuerbar
  - Für dinge wie Schrauben und andere kleine dinge geignet
 
-### Einkaufsliste
+<h3>Einkaufsliste</h3>
 
 - CYD (15-20$)
 - ESP32 S2-Mini (habe ich benutzt andere funktionieren genauso gut)
-- Stepmotoren
+- Steppmotor(17HS3001-20B   GTW141183) 2 mal
